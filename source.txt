@@ -1,0 +1,4 @@
+https://github.com/milahu/kindle-ai-export
+
+forked from
+https://github.com/transitive-bullshit/kindle-ai-export
